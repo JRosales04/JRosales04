@@ -30,15 +30,17 @@ Programación Web:
 
 📌 Proyectos Destacados
 
-💺 Procesamiento de imágenes en C++: Herramientas de manipulación y compresión de imágenes PPM.
+💺 Desarrollo de Software: Manipulación de .ppm en C++, mini-shell C, Parser Recursivo Descendente.
 
 💺 Criptografía en Python: Implementación de derivación de claves y autenticación segura con Scrypt.
 
-💺 Optimización de código: Aplicaciones enfocadas en la eficiencia y rendimiento.
+💺 Science: Resolución de problemas complejos con heurísticas.
 
 💺 Desarrollo de páginas web: Interfaces de usuario destacadas visualmente y funcionalmente.
 
-Todos estos proyectos están publicados en el GitHub correspondiente a la cuenta de la universidad: @100495802
+💺 Manipulación de Databases: manejo de tablas, creación y consultas en SQL y Excel.
+
+Todos estos proyectos están publicados en el GitHub correspondiente a la cuenta de la universidad (UC3M): @100495802
 
 📌 Siempre buscando mejorar y aprender más cada día. 🚀
 

@@ -1,69 +1,121 @@
-# ¡Hola, soy Javier!
+<span align="center">
+  <img src="assets/github-header-banner-es.png" alt="Banner" />
+  <p align="center"> Disponible en: <a href="./README.md">Español</a> | <a href="./README.en.md">English</a></p>
+</span>
 
-## 👨‍💻 ¿Quién soy?
+# ✌️ Sobre mí
 
-Mi nombre completo es Javier Rosales Lozano, y soy un estudiante de tercer año de la carrera de Ingeniería Informática en la Universidad Carlos III de Madrid. Actualmente estoy cerca de cursar mi cuarto año de carrera, y tengo muchas ganas de formarme con prácticas en empresa y con otras asignaturas que me quedan por cursar.
+```python
+class Javier:
+    def __init__(self):
+        self.name = "Javier"
+        self.surname = "Rosales Lozano"
+        self.role = "Computer Engineering Student @ UC3M"
+        self.year = 4
+        self.residence = "Madrid"
+    def __str__(self):
+        return f"{self.name} - {self.role}"
 
-Me gusta mucho la programación, y en general todos los campos de la informática. Durante la carrera me he especializado en desarrollo de software en Python, C/C++ y JavaScript, entre muchos otros lenguajes de programación y desarrollo de tecnologías. Mi objetivo siempre ha sido el aprendizaje a través del desarrollo de proyectos en varios campos de esta ingeniería, con un fuerte enfoque en la optimización de código y el diseño eficiente de software.
+if __name__ == "__main__":
+    me = Javier()
+```
 
-## 🔧 Tecnologías y Herramientas
+<p>
+  Mis objetivos se enfocan en el aprendizaje de las nuevas tecnologías emergentes, y en el desarrollo y conocimiento de las actuales, además de crecer profesionalmente cada día.
+</p>
 
-### 💻 Lenguajes de programación:
+# 🔧 Aptitudes Profesionales
 
-A lo largo de mi formación académica he adquirido experiencia con diversas tecnologías y lenguajes de programación. Entre los más destacados se encuentran:
+<p>
+  Las diferentes tecnologías en las que me he especializado durante la carrera son:
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,css,js,jquery,nodejs,excel&theme=dark&titles=true" />
+    </a>
+  </p>
+</p>
+<p>
+  Entre otros conocimientos secundarios que he adquirido, se encuentran:
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,cmake,vim,npm,powershell,r,oracle&theme=dark&titles=true" />
+    </a>
+  </p>
+</p>
+<p>
+  Y, a la hora de trabajar, me apoyo en las siguientes herramientas de trabajo:
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,clion,replit,figma,canva,github,git,stackoverflow,word,discord&theme=dark&titles=true" />
+    </a>
+  </p>
+</p>
 
-- *Python*: Fue el primer lenguaje que aprendí durante el primer año de la carrera, y desde entonces ha sido una herramienta clave en múltiples proyectos. Gracias a su uso constante, he desarrollado una base sólida en programación estructurada y orientada a objetos, así como en el desarrollo de scripts y automatizaciones.
-- *C (ANSI C) / C++ (C++20)*: Aprendidos durante el segundo y tercer año respectivamente, han sido los lenguajes más utilizados a lo largo de la carrera. La mayoría de los proyectos fueron desarrollados en C, lo que me permitió profundizar en programación de bajo nivel, estructuras de datos y algoritmos. Posteriormente, el uso de C++ me introdujo a la programación orientada a objetos, templates y manejo avanzado de memoria.
-- *JavaScript*: Otro lenguaje fundamental en mi formación, especialmente en el desarrollo de aplicaciones web interactivas. He trabajado con JavaScript tanto del lado del cliente como del servidor, integrando funcionalidades dinámicas y desarrollando interfaces de usuario modernas.
+# 💻 Proyectos Destacados
 
-### 🌐 Programación web:
+<table>
+  <tr>
+  <th align="center" />Proyectos
+    <th>Descripción</th>
+    <th>Tecnologías aplicadas</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/JRosales04/myhomie-app.git">myhomie-app</a></td>
+    <td>Creación de un sistema interactivo<br>manejable a través de gestos con el<br>teléfono móvil, con el propósito de<br>controlar la domótica de un hogar.</td>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,jquery,nodejs,expressjs,socketio,chartjs,api,miro&theme=dark&perline=5&titles=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><a href=https://github.com/JRosales04/mydiary-crypto>mydiary-crypto</a></td>
+    <td>Desarrollo de un sistema de<br>registro/autenticación de usuarios y<br>cifrado de notas personalizadas con<br>interfaz avanzada en Tkinter.</td>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,json,linux,ubuntu&theme=dark&titles=true" />
+    </td>
+  </tr>
+  <tr>
+    <tr>
+    <td align="center"><a href=https://github.com/JRosales04/employee-attrition-prediction.git>employee-attrition-prediction</a></td>
+    <td>Modelo de predicción de abandono<br>de empleados de una empresa<br>en base a estadísticas y atributos<br>de éstos.</td>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,sklearn,numpy,pandas,matplotlib&theme=dark&titles=true&perline=3" />
+    </td>
+  </tr>
+    <td align="center"><a href=https://github.com/JRosales04/p2p-dss.git>p2p-dss</a></td>
+    <td>Arquitectura P2P entre clientes de<br>Python y servidor de C para el<br>servicio de distribución de ficheros;<br>ampliación con servicios web y<br>servidor RPC.</td>
+    <td align="center">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=c,python,bash,cmake&theme=dark&titles=true" />
+    </td>
+  </tr>
+</table>
 
-He adquirido conocimientos sólidos en el desarrollo web front-end, utilizando tecnologías fundamentales como:
+<p>
+  Mis estándares de código se centran en:
+    <li>La <strong>optimización de código</strong> y el diseño eficiente de software.</li>
+    <li>El <strong>desarrollo de pruebas</strong>, programación robusta y buenas prácticas de mantenimiento.</li>
+    <li>La integración de tecnologías modernas y la creación de <strong>aplicaciones escalables</strong>.</li>
+    <li>La resolución de problemas complejos mediante <strong>soluciones creativas y eficientes</strong>.</li>
+</p>
 
-- *HTML*: Estructuración semántica de contenido web, siguiendo buenas prácticas de accesibilidad y SEO.
-- *CSS*: Estilización de interfaces mediante diseño responsivo (flexbox, grid) y principios de diseño moderno.
-- *JavaScript*: Creación de experiencias interactivas en el navegador, manipulación del DOM, gestión de eventos y lógica del lado del cliente.
+# 📬 ¡Pongámonos en contacto!
 
-### 🔋 Desarrollo backend:
+<p align="center">
+  <a href="./docs/cv_es.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículum"/>
+  </a>
+  <a href="https://github.com/JRosales04">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:javierrl20047@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-Tengo experiencia en el desarrollo de la lógica del lado del servidor, manejo de APIs y gestión de datos mediante los lenguajes mencionados anteriormente:
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Demo" width="500" style="border-radius:10px"/>
+</p>
 
-- *Python*: Uso de frameworks, desarrollo de servidores y scripts para el paso de mensajes mediante sockets y manejo de concurrencia mediante hilos.
-- *JavaScript* (Node.js, Express, Socket.IO): Creación de servidores y manejo de APIs RESTful.
-- *C/C++*: Desarrollo de servidores básicos con colas de mensajes POSIX, sockets, webservices y RPC/ONC.
-
-### 🧠 Otros conocimientos
-
-Algunos conocimientos adicionales incluidos a lo largo de mi experiencia académica son:
-
-- *SQL*: Conocimientos fundamentales y manejo de bases de datos relacionales.
-- *Excel*: Conocimientos avanzados; creación de interfaces gráficas interactivas.
-- *R*: Conocimiento básico, recolección de información estadística.
-
-### 🔧 Herramientas: 
-
-Finalmente, las herramientas que más domino para la creación, configuración y desarrollo de proyectos son los siguientes:
-
-  - Visual Studio Code
-  - Herramientas de JetBrains: PyCharm, CLion
-
-## 📌 Proyectos Destacados
-
-Junto con mis compañeros de prácticas, he trabajado en proyectos relacionados con diferentes ámbitos o áreas de la ingeniería informática. Algunos de estos proyectos son los siguientes:
-
-- _Programación / Estructuras de Datos y Algoritmos_: Programación orientada a objetos y manejo de estructuras de datos (pilas, colas, listas enlazadas, árboles y grafos).
-- _Estadística y Probabilidad_: Recolección y estudio de datos para estadísticas y análisis de resultados.
-- _Estructura de Computadores_: Manejo de operaciones atómicas y programación en ensamblador RISC V.
-- _Desarrollo de Software_: Aprendizaje de desarrollo de software correcto, coherente y según estándares profesionales; manejo de pruebas y resolución de errores.
-- _Ficheros y Bases de Datos_: Conocimientos básicos de SQL; creación de procedimientos, triggers y consultas a bases de datos relacionales.
-- _Criptografía y Seguridad Informática_: Cifrado y descifrado de datos aplicando técnicas de criptografía básicas.
-- _Heurística y optimización_: Resolución de problemas de alta complejidad computacional y elevados costes de memoria de manera eficiente y eficaz mediante técnicas de programación lineal y búsqueda heurística.
-- _Arquitectura de Computadores_: Manejo y edición de grandes volúmenes de datos y archivos; comparación de técnicas de programación en base a métricas relacionadas con el coste computacional y consumo de memoria y tiempo.
-- _Interfaces de Usuario_: Creación de interfaces de usuario siguiendo lenguajes de patrones y heurísticas de Nielsen.
-- _Sistemas Interactivos y Ubicuos_: Desarrollo de un sistema interactivo desde cero a partir de la metodología de diseño e innovación Design Thinking (definición, desarrollo y evaluación de sistemas interactivos).
-- _Machine Learning_: Interpretación y estudio exhaustivo de datasets mediante técnicas de machine learning supervisado (KNN y Decision Trees) y no supervisado (Clustering).
-- _Sistemas Distribuidos_: Paso de mensajes mediante sockets, colas de POSIX y RPCs. Desarrollo de webservices y aplicaciones cliente-servidor.
-- _Hojas de cálculo_: Creación de interfaces interactivas en Excel y manejo de volúmenes de datos abundantes.
-- _Procesadores del Lenguaje_: Construcción desde cero de un intérprete de Lisp y Forth (analizadores léxicos, sintácticos y semánticos, y generación de código directo y/o diferido); programación funcional.
-
-Siempre busco mejorar y aprender más cada día. 🚀
+<h4 align="center">
+  "Concentrado en el proceso, no en el resultado."
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3af.svg" width="15" height="15" alt="rocket"/>
+</h4>

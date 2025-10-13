@@ -21,7 +21,10 @@ if __name__ == "__main__":
 ```
 
 <p>
-  Mis objetivos se enfocan en el aprendizaje de las nuevas tecnologías emergentes, y en el desarrollo y conocimiento de las actuales, además de crecer profesionalmente cada día.
+  Mi objetivo profesional es desarrollarme plenamente como <strong>ingeniero informático</strong>, participando en proyectos tecnológicos e innovadores donde pueda aplicar mis conocimientos y habilidades para generar valor, disfrutar de mi trabajo y mantener un equilibrio entre estabilidad y crecimiento profesional.
+</p>
+<p>
+  Me motiva la confianza y el apoyo recibido a lo largo de mi formación, y deseo devolverlo con esfuerzo y dedicación. Comprendo que alcanzar mis metas requiere constancia y disciplina, por lo que depende de mí mantener la motivación y perseguir activamente mis objetivos, aprendiendo y creciendo cada día
 </p>
 
 # 🔧 Aptitudes Profesionales
@@ -61,14 +64,14 @@ if __name__ == "__main__":
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/JRosales04/myhomie-app.git">myhomie-app</a></td>
-    <td>Creación de un sistema interactivo<br>manejable a través de gestos con el<br>teléfono móvil, con el propósito de<br>controlar la domótica de un hogar.</td>
+    <td>Creación de un sistema interactivo manejable a través de gestos con el teléfono móvil, con el propósito de controlar la domótica de un hogar.</td>
     <td align="center">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,jquery,nodejs,expressjs,socketio,chartjs,api,miro&theme=dark&perline=5&titles=true" />
     </td>
   </tr>
   <tr>
     <td align="center"><a href=https://github.com/JRosales04/mydiary-crypto>mydiary-crypto</a></td>
-    <td>Desarrollo de un sistema de<br>registro/autenticación de usuarios y<br>cifrado de notas personalizadas con<br>interfaz avanzada en Tkinter.</td>
+    <td>Desarrollo de un sistema de registro/autenticación de usuarios y cifrado de notas personalizadas con interfaz avanzada en Tkinter.</td>
     <td align="center">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=python,json,linux,ubuntu&theme=dark&titles=true" />
     </td>
@@ -76,13 +79,13 @@ if __name__ == "__main__":
   <tr>
     <tr>
     <td align="center"><a href=https://github.com/JRosales04/employee-attrition-prediction.git>employee-attrition-prediction</a></td>
-    <td>Modelo de predicción de abandono<br>de empleados de una empresa<br>en base a estadísticas y atributos<br>de éstos.</td>
+    <td>Modelo de predicción de abandono de empleados de una empresa en base a estadísticas y atributos de éstos.</td>
     <td align="center">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,sklearn,numpy,pandas,matplotlib&theme=dark&titles=true&perline=3" />
     </td>
   </tr>
     <td align="center"><a href=https://github.com/JRosales04/p2p-dss.git>p2p-dss</a></td>
-    <td>Arquitectura P2P entre clientes de<br>Python y servidor de C para el<br>servicio de distribución de ficheros;<br>ampliación con servicios web y<br>servidor RPC.</td>
+    <td>Arquitectura P2P entre clientes de Python y servidor de C para el servicio de distribución de ficheros; ampliación con servicios web y servidor RPC.</td>
     <td align="center">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=c,python,bash,cmake&theme=dark&titles=true" />
     </td>
@@ -102,6 +105,9 @@ if __name__ == "__main__":
 <p align="center">
   <a href="./docs/cv_es.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículum"/>
+  </a>
+  <a href="http://www.linkedin.com/in/javierrosaleslozano">
+    <img src="https://img.shields.io/badge/LinkedIn%20CV-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/JRosales04">
     <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>

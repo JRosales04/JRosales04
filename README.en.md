@@ -100,6 +100,22 @@ if __name__ == "__main__":
     <li>Solving complex problems through <strong>creative and efficient solutions</strong>.</li>
 </p>
 
+# :chart_with_upwards_trend: Statistics
+
+<p>
+  Recently, I put my skills and knowledge to the test on <a href="https://leetcode.com/u/jrosales04/">LeetCode</a>:
+</p>
+
+<span align="center">
+  <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap" />
+</span>
+
+<p>
+  I also track my coding statistics with <a href="https://wakatime.com/@JRosales04">WakaTime</a>:
+</p>
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JRosales04&layout=compact&theme=dark)](https://wakatime.com/@JRosales04)
+
 # 📬 Connect with me!
 
 <p align="center">

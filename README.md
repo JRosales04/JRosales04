@@ -103,18 +103,16 @@ if __name__ == "__main__":
 # :chart_with_upwards_trend: Estadísticas
 
 <p>
-  Últimamente, pongo a prueba mis habilidades y conocimientos en <a href=https://leetcode.com/u/jrosales04/>Leetcode</a>:
+  Últimamente, pongo a prueba mis habilidades y conocimientos en <a href="https://leetcode.com/u/jrosales04/">Leetcode</a>, y además mido mis estadísticas de coding a través de <a href="https://wakatime.com/@JRosales04">WakaTime</a>:
 </p>
 
-<span align="center">
-  <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap" />
-</span>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap" alt="Leetcode stats" style="max-height: 140px;"/>
+  <a href="https://wakatime.com/@JRosales04">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRosales04&layout=compact&theme=dark" alt="WakaTime stats" style="max-height: 140px;"/>
+  </a>
+</div>
 
-<p>
-  También, mido mis estadísticas de coding a través de <a href=https://wakatime.com/@JRosales04>WakaTime</a>:
-</p>
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JRosales04&layout=compact&theme=dark)](https://wakatime.com/@JRosales04)
 
 # 📬 ¡Pongámonos en contacto!
 

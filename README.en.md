@@ -106,11 +106,21 @@ if __name__ == "__main__":
   Lately, I put my skills and knowledge to the test on <a href="https://leetcode.com/u/jrosales04/">Leetcode</a>, and I also track my coding statistics through <a href="https://wakatime.com/@JRosales04">WakaTime</a>:
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap" alt="Leetcode stats" style="max-height: 170px;"/>
-  <a href="https://wakatime.com/@JRosales04">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRosales04&layout=compact&theme=dark" alt="WakaTime stats" style="max-height: 160px;"/>
-  </a>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap;">
+  <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap" alt="Leetcode stats" style="height: 200px; width: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRosales04&layout=compact&theme=dark" alt="WakaTime stats" style="height: 200px; width: auto;"/>
+</div>
+
+<p>
+  You can find extra information regarding this Github profile below:
+</p>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap; margin-bottom: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=JRosales04&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1" alt="Github Trophies" style="height: 80px; width: auto;"/>
+</div>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JRosales04&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Mis%20Stats" alt="Github Stats" style="height: 180px; width: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosales04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Github Top Langs" style="height: 180px; width: auto;"/>
 </div>
 
 # 📬 Connect with me!

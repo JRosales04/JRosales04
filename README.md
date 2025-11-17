@@ -107,8 +107,8 @@ if __name__ == "__main__":
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap;">
-  <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap" alt="Leetcode stats" style="height: 200px; width: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRosales04&layout=compact&theme=dark" alt="WakaTime stats" style="height: 200px; width: auto;"/>
+  <img src="https://leetcard.jacoblin.cool/JRosales04?theme=transparent&font=Noto%20Sans%20Chakma&ext=heatmap&border=0" alt="Leetcode stats" style="height: 200px; width: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRosales04&layout=compact&theme=dracula&bg_color=00000000&hide_border=true" alt="WakaTime stats" style="height: 200px; width: auto;"/>
 </div>
 
 <p>
@@ -116,11 +116,11 @@ if __name__ == "__main__":
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap; margin-bottom: 20px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=JRosales04&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&row=1" alt="Github Trophies" style="height: 80px; width: auto;"/>
+  <img src="https://github-trophies.vercel.app/?username=JRosales04&theme=dracula&no-frame=true&row=2&no-bg=true" alt="Github Trophies" style="height: 200px; width: auto;"/>
 </div>
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JRosales04&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&custom_title=Mis%20Stats" alt="Github Stats" style="height: 180px; width: auto;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosales04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Github Top Langs" style="height: 180px; width: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JRosales04&show_icons=true&theme=dracula&count_private=true&hide_border=true&custom_title=Mis%20Stats&bg_color=00000000" alt="Github Stats" style="height: 180px; width: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosales04&layout=pie&langs_count=8&theme=dracula&hide_border=true&bg_color=00000000" alt="Github Top Langs" style="height: 180px; width: auto;"/>
 </div>
 
 # 📬 ¡Pongámonos en contacto!

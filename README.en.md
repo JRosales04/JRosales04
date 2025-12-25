@@ -3,7 +3,7 @@
   <p align="center"> Available in: <a href="./README.en.md">English</a> | <a href="./README.md">Español</a></p>
 </span>
 
-# ✌️ About me
+# :metal: About me
 
 ```python
 class Javier:
@@ -27,13 +27,13 @@ if __name__ == "__main__":
   I am motivated by the trust and support I have received throughout my education, and I aim to give back through effort and dedication. I understand that achieving my goals requires perseverance and discipline, so it is up to me to stay motivated and actively pursue my objectives, learning and growing every day.
 </p>
 
-# 🔧 Knowledges and Capacities
+# :wrench: Knowledges and Capacities
 
 <p>
   Throughout my university studies, I've been specialized in the following technologies:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,css,js,jquery,nodejs,excel&theme=dark&titles=true" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,css,js,excel,oracle,mongodb,cassandra&theme=dark&titles=true" />
     </a>
   </p>
 </p>
@@ -41,7 +41,7 @@ if __name__ == "__main__":
   Besides other skills, I have managed also:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,cmake,vim,npm,powershell,r,oracle&theme=dark&titles=true" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nodejs,linux,ubuntu,cmake,vim,npm,powershell,r&theme=dark&titles=true" />
     </a>
   </p>
 </p>
@@ -54,7 +54,7 @@ if __name__ == "__main__":
   </p>
 </p>
 
-# 💻 Outstanding Projects
+# :bulb: Outstanding Projects
 
 <table>
   <tr>
@@ -110,7 +110,7 @@ if __name__ == "__main__":
   <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap&border=0" alt="Leetcode stats" style="height: 250px; width: auto;"/>
 </div>
 
-# 📬 Connect with me!
+# :mailbox: Connect with me!
 
 <p align="center">
   <a href="./docs/cv_en.pdf" target="_blank">

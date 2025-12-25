@@ -3,7 +3,7 @@
   <p align="center"> Disponible en: <a href="./README.md">Español</a> | <a href="./README.en.md">English</a></p>
 </span>
 
-# ✌️ Sobre mí
+# :metal: Sobre mí
 
 ```python
 class Javier:
@@ -27,13 +27,13 @@ if __name__ == "__main__":
   Me motiva la confianza y el apoyo recibido a lo largo de mi formación, y deseo devolverlo con esfuerzo y dedicación. Comprendo que alcanzar mis metas requiere constancia y disciplina, por lo que depende de mí mantener la motivación y perseguir activamente mis objetivos, aprendiendo y creciendo cada día
 </p>
 
-# 🔧 Aptitudes Profesionales
+# :wrench: Aptitudes Profesionales
 
 <p>
   Las diferentes tecnologías en las que me he especializado durante la carrera son:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,css,js,jquery,nodejs,excel&theme=dark&titles=true" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,css,js,excel,oracle,mongodb,cassandra&theme=dark&titles=true" />
     </a>
   </p>
 </p>
@@ -41,7 +41,7 @@ if __name__ == "__main__":
   Entre otros conocimientos secundarios que he adquirido, se encuentran:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,ubuntu,cmake,vim,npm,powershell,r,oracle&theme=dark&titles=true" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nodejs,linux,ubuntu,cmake,vim,npm,powershell,r&theme=dark&titles=true" />
     </a>
   </p>
 </p>
@@ -54,7 +54,7 @@ if __name__ == "__main__":
   </p>
 </p>
 
-# 💻 Proyectos Destacados
+# :bulb: Proyectos Destacados
 
 <table>
   <tr>
@@ -110,7 +110,7 @@ if __name__ == "__main__":
   <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap&border=0" alt="Leetcode stats" style="height: 250px; width: auto;"/>
 </div>
 
-# 📬 ¡Pongámonos en contacto!
+# :mailbox: ¡Pongámonos en contacto!
 
 <p align="center">
   <a href="./docs/cv_es.pdf" target="_blank">

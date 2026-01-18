@@ -58,32 +58,34 @@ if __name__ == "__main__":
 
 <ul>
   <li><h4>Web Layout Designer: UI/UX Design</h4></li>
-  <table>
-    <tr>
-      <td style="width:75%; vertical-align: top;">
-        <p>External Academic Internship<br><strong>10/2025 - Present</strong></p>
-        <p>
-        Intern in the <strong>Product team at Smartvel</strong>, collaborating on the technical customization of widgets and microsites for real clients in the tourism and technology sectors. My role involves adapting design styles to the client's identity, based on <strong>brand research</strong> and ensuring consistency with <strong>design guidelines and UI/UX standards</strong>. I also focus on <strong>responsive design (mobile, tablet, and desktop)</strong>, resolving visual issues and cross-browser compatibility problems. I perform <strong>usability and accessibility testing</strong>, applying inclusive design principles and WCAG validation, assessing contrast, readability, keyboard navigation, and semantic structure to ensure a more usable experience for all users.
-        </p>
-      </td>
-      <td style="width:25%; vertical-align: top;">
-        <img
-          src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png"
-          alt="Smartvel"
-          style="max-width: 100%; width: 200px; height: auto;"
-        />
-        <div style="display:flex; flex-direction: row; justify-content: space-between; align-items: center;">
-          <ul>
-            <li><strong>Company:</strong> <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a></li>
-            <li><strong>Technologies:</strong></li>
-            <br>
-            <img src="https://go-skill-icons.vercel.app/api/icons?i=css,figma&theme=dark&perline=5&titles=true" />
-          </ul>
-        </div>
-      </td>
-    </tr>
-  </table>
 </ul>
+
+<table>
+  <tr>
+    <td width="65%" style="vertical-align: center;">
+      <p>External Academic Internship<br><strong>10/2025 - Present</strong></p>
+      <p>
+        Intern in the <strong>Product team at Smartvel</strong>, collaborating on the technical customization of widgets and microsites for real clients in the tourism and technology sectors. My role involves adapting design styles to the client's identity, based on <strong>brand research</strong> and ensuring consistency with <strong>design guidelines and UI/UX standards</strong>. I also focus on <strong>responsive design (mobile, tablet, and desktop)</strong>, resolving visual issues and cross-browser compatibility problems. I perform <strong>usability and accessibility testing</strong>, applying inclusive design principles and WCAG validation, assessing contrast, readability, keyboard navigation, and semantic structure to ensure a more usable experience for all users.
+      </p>
+    </td>
+    <td width="35%" style="vertical-align: center;">
+      <img
+        src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png"
+        alt="Smartvel"
+        style="max-width: 100%; width: 200px; height: auto;"
+      />
+      <div style="display:flex; flex-direction: row; justify-content: space-between; align-items: center;">
+        <ul>
+          <li><strong>Company:</strong> <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a></li>
+          <li><strong>Technologies:</strong></li>
+          <br>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=css,figma&theme=dark&perline=5&titles=true" />
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 # :bulb: Outstanding Projects
 

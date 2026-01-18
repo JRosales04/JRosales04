@@ -41,7 +41,7 @@ if __name__ == "__main__":
   Besides other skills, I have managed also:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nodejs,linux,ubuntu,cmake,vim,npm,powershell,r&theme=dark&titles=true" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nodejs,chartjs,linux,ubuntu,cmake,vim,npm,powershell,r&theme=dark&titles=true" />
     </a>
   </p>
 </p>
@@ -53,6 +53,35 @@ if __name__ == "__main__":
     </a>
   </p>
 </p>
+
+# :briefcase: Experiencia Profesional
+
+<ul>
+  <li><h4>Web Layout Designer: UI/UX Design</h4></li>
+  <div style="display:flex; flex-direction:row; gap:1rem;">
+    <div style="width:75%;">
+      <p>External Academic Internship<br><strong>10/2025 - Present</strong></p>
+      <p>
+      Intern in the <strong>Product team at Smartvel</strong>, collaborating on the technical customization of widgets and microsites for real clients in the tourism and technology sectors. My role involves adapting design styles to the client's identity, based on <strong>brand research</strong> and ensuring consistency with <strong>design guidelines and UI/UX standards</strong>. I also focus on <strong>responsive design (mobile, tablet, and desktop)</strong>, resolving visual issues and cross-browser compatibility problems. I perform <strong>usability and accessibility testing</strong>, applying inclusive design principles and WCAG validation, assessing contrast, readability, keyboard navigation, and semantic structure to ensure a more usable experience for all users.
+      </p>
+    </div>
+    <div style="width:25%;">
+      <img
+        src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png"
+        alt="Smartvel"
+        style="max-width: 100%; width: 200px; height: auto;"
+      />
+      <div style="display:flex; flex-direction: row; justify-content: space-between; align-items: center;">
+        <ul>
+          <li><strong>Company:</strong> <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a></li>
+          <li><strong>Technologies:</strong></li>
+          <br>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=css,figma&theme=dark&perline=5&titles=true" />
+        </ul>
+      </div>
+    </div>
+  </div>
+</ul>
 
 # :bulb: Outstanding Projects
 
@@ -94,11 +123,14 @@ if __name__ == "__main__":
 
 <p>
   My coding standards focus on:
-    <li><strong>Code optimization</strong> and efficient software design.</li>
+  <ul style="column-count: 2; column-gap: 1rem;">
+    <li><strong>Code optimization</strong> to improve performance, maintainability, and clean software design.</li>
     <li><strong>Test development</strong>, robust programming, and best maintenance practices.</li>
     <li>Integrating modern technologies and building <strong>scalable applications</strong>.</li>
     <li>Solving complex problems through <strong>creative and efficient solutions</strong>.</li>
+  </ul>
 </p>
+
 
 # :chart_with_upwards_trend: Statistics
 

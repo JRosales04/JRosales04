@@ -27,7 +27,7 @@ if __name__ == "__main__":
   Me motiva la confianza y el apoyo recibido a lo largo de mi formación, y deseo devolverlo con esfuerzo y dedicación. Comprendo que alcanzar mis metas requiere constancia y disciplina, por lo que depende de mí mantener la motivación y perseguir activamente mis objetivos, aprendiendo y creciendo cada día
 </p>
 
-# :wrench: Aptitudes Profesionales
+# :wrench: Aptitudes
 
 <p>
   Las diferentes tecnologías en las que me he especializado durante la carrera son:
@@ -41,7 +41,7 @@ if __name__ == "__main__":
   Entre otros conocimientos secundarios que he adquirido, se encuentran:
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nodejs,linux,ubuntu,cmake,vim,npm,powershell,r&theme=dark&titles=true" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nodejs,chartjs,linux,ubuntu,cmake,vim,npm,powershell,r&theme=dark&titles=true" />
     </a>
   </p>
 </p>
@@ -53,6 +53,35 @@ if __name__ == "__main__":
     </a>
   </p>
 </p>
+
+# :briefcase: Experiencia Profesional
+
+<ul>
+  <li><h4>Maquetador Web: Diseño UI/UX</h4></li>
+  <div style="display:flex; flex-direction:row; gap:1rem;">
+    <div style="width:75%;">
+      <p>Prácticas Académicas Externas<br><strong>10/2025 - Actual</strong></p>
+      <p>
+      Becario en el <strong>equipo de Producto de Smartvel</strong>, colaborando en la personalización técnica de widgets y microsites para clientes reales del sector turístico y tecnológico. Mi trabajo consiste en adaptar estilos de diseño a la identidad del cliente, partiendo del <strong>estudio de marca</strong> y garantizando coherencias con <strong>guías de diseño y estándares UI/UX</strong>. También se pone énfasis en el <strong>diseño responsive (móvil, tablet y desktop)</strong>, solucionando incidencias visuales y de compatibilidad entre navegadores. Se realizan <strong>pruebas de usabilidad y accesibilidad</strong> aplicando criterios de diseño inclusivo y validación WCAG, evaluando contraste, legibilidad, navegación por teclado y estructura semántica para asegurar una experiencia más usable para todos los usuarios.
+      </p>
+    </div>
+    <div style="width:25%;">
+      <img
+        src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png"
+        alt="Smartvel"
+        style="max-width: 100%; width: 200px; height: auto;"
+      />
+      <div style="display:flex; flex-direction: row; justify-content: space-between; align-items: center;">
+        <ul>
+          <li><strong>Empresa:</strong> <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a></li>
+          <li><strong>Tecnologías:</strong></li>
+          <br>
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=css,figma&theme=dark&perline=5&titles=true" />
+        </ul>
+      </div>
+    </div>
+  </div>
+</ul>
 
 # :bulb: Proyectos Destacados
 
@@ -94,10 +123,12 @@ if __name__ == "__main__":
 
 <p>
   Mis estándares de código se centran en:
-    <li>La <strong>optimización de código</strong> y el diseño eficiente de software.</li>
+  <ul style="column-count: 2; column-gap: 1rem;">
+    <li>La <strong>optimización de código</strong> y el diseño eficiente y limpio de software.</li>
     <li>El <strong>desarrollo de pruebas</strong>, programación robusta y buenas prácticas de mantenimiento.</li>
     <li>La integración de tecnologías modernas y la creación de <strong>aplicaciones escalables</strong>.</li>
     <li>La resolución de problemas complejos mediante <strong>soluciones creativas y eficientes</strong>.</li>
+  </ul>
 </p>
 
 # :chart_with_upwards_trend: Estadísticas

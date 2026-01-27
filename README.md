@@ -139,7 +139,34 @@ if __name__ == "__main__":
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap;">
-  <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap&border=0" alt="Leetcode stats" style="height: 250px; width: auto;"/>
+  <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap&border=0"
+       alt="Leetcode stats"
+       style="height: 200px; width: auto;" />
+  <div align="center" style="display: flex; flex-direction:column; justify-content: center; align-items: center; gap: 10px;">
+    <div align="center" style="display: flex; flex-direction:row; justify-content: center; align-items: center;">
+      <a href="https://github.com/JRosales04/JRosales04" target="_blank">
+        <img src="https://img.shields.io/github/last-commit/JRosales04/JRosales04?label=last%20commit&style=flat-square&color=6CE086&labelColor=0d1117"
+            alt="Último commit"
+            style="height: 28px;" />
+      </a>
+      <a href="https://github.com/JRosales04/JRosales04" target="_blank">
+        <img src="https://api.visitorbadge.io/api/VisitorHit?user=JRosales04&repo=JRosales04&label=Visitors%20Count&labelColor=0d1117&countColor=6CE086&&style=flat-square"
+            alt="Visitantes"
+            style="height: 28px;" />
+      </a>
+      <a href="https://github.com/JRosales04" target="_blank">
+        <img src="https://img.shields.io/github/followers/JRosales04?label=followers&style=flat-square&color=6CE086&labelColor=0d1117"
+            alt="Seguidores"
+            style="height: 28px;" />
+      </a>
+      <a href="https://github.com/JRosales04/JRosales04" target="_blank">
+        <img src="https://img.shields.io/github/stars/JRosales04/JRosales04?label=stars&style=flat-square&color=6CE086&labelColor=0d1117"
+            alt="Estrellas"
+            style="height: 28px;" />
+      </a>
+    </div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRosales04&theme=dark" style="height: 150px;"/>
+  </div>
 </div>
 
 # :mailbox: ¡Pongámonos en contacto!

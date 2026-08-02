@@ -10,7 +10,7 @@ class Javier:
     def __init__(self):
         self.name = "Javier"
         self.surname = "Rosales Lozano"
-        self.role = "Computer Engineering Student @ UC3M"
+        self.role = "Computer Engineer"
         self.year = 4
         self.residence = "Madrid"
     def __str__(self):
@@ -21,65 +21,87 @@ if __name__ == "__main__":
 ```
 
 <p>
-  Mi objetivo profesional es desarrollarme plenamente como <strong>ingeniero informático</strong>, participando en proyectos tecnológicos e innovadores donde pueda aplicar mis conocimientos y habilidades para generar valor, disfrutar de mi trabajo y mantener un equilibrio entre estabilidad y crecimiento profesional.
+  <strong>Ingeniero Informático y próximo estudiante del Doble Máster en Ingeniería Informática e Inteligencia Artificial Aplicada</strong>, con interés por el desarrollo de software, la inteligencia artificial y la creación de soluciones tecnológicas que generen un impacto real.
 </p>
 <p>
-  Me motiva la confianza y el apoyo recibido a lo largo de mi formación, y deseo devolverlo con esfuerzo y dedicación. Comprendo que alcanzar mis metas requiere constancia y disciplina, por lo que depende de mí mantener la motivación y perseguir activamente mis objetivos, aprendiendo y creciendo cada día
+  Mi objetivo profesional es seguir creciendo en el sector tecnológico participando en proyectos innovadores donde pueda aportar valor, aprender de grandes profesionales y continuar desarrollando mis conocimientos y habilidades. Busco construir una carrera basada en el aprendizaje continuo, la responsabilidad, el trabajo en equipo y el equilibrio entre el crecimiento profesional y personal.
+</p>
+<p>
+  La confianza y el apoyo que he recibido durante mi formación son una de mis mayores motivaciones. Por ello, afronto cada nuevo reto con esfuerzo, disciplina y compromiso, convencido de que la mejora constante es el camino para alcanzar cualquier objetivo.
 </p>
 
 # :wrench: Aptitudes
 
-<p>
-  Las diferentes tecnologías en las que me he especializado durante la carrera son:
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,css,js,excel,oracle,mongodb,cassandra&theme=dark&titles=true" />
-    </a>
-  </p>
-</p>
-<p>
-  Entre otros conocimientos secundarios que he adquirido, se encuentran:
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nodejs,chartjs,linux,ubuntu,cmake,vim,npm,powershell,r&theme=dark&titles=true" />
-    </a>
-  </p>
-</p>
-<p>
-  Y, a la hora de trabajar, me apoyo en las siguientes herramientas de trabajo:
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,clion,replit,figma,canva,github,git,stackoverflow,word,discord&theme=dark&titles=true" />
-    </a>
-  </p>
-</p>
+<table border="0" width="100%">
+  <tr>
+    <th align="center" width="50%">Lenguajes de programación</th>
+    <th align="center" width="50%">Backend, APIs y comunicaciones</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,js,kotlin&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask,express,nodejs,api,socketio,eclipse&theme=dark" /></td>
+  </tr>
+  <tr>
+    <th align="center">Desarrollo web y frontend</th>
+    <th align="center">Diseño UI/UX</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,html,css,jquery,chartjs&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma,miro&theme=dark" /></td>
+  </tr>
+  <tr>
+    <th align="center">Bases de datos</th>
+    <th align="center">Inteligencia Artificial y ciencia de datos</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb,mysql,plsql,mongodb,cassandra&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,opencv,sklearn,numpy,pandas,matplotlib&theme=dark" /></td>
+  </tr>
+  <tr>
+    <th align="center">Infraestructura y sistemas</th>
+    <th align="center">Control de versiones</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker,cmake,powershell,vim,npm&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bitbucket&theme=dark" /></td>
+  </tr>
+  <tr>
+    <th align="center">Entornos de desarrollo</th>
+    <th align="center">Análisis de datos</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,clion,replit&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,excel,r&theme=dark" /></td>
+  </tr>
+   <tr>
+    <th align="center">Sistemas operativos</th>
+    <th align="center">Testing y calidad</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest,pytest,postman&theme=dark" /></td>
+  </tr>
+</table>
 
 # :briefcase: Experiencia Profesional
 
-<h4>Maquetador Web: Diseño UI/UX</h4>
-
 <table>
   <tr>
-    <td style="vertical-align: center; width: 65%;">
-      <p>Prácticas Académicas Externas<br><strong>10/2025 - Actual</strong></p>
-      <p>
-        Becario en el <strong>equipo de Producto de Smartvel</strong>, colaborando en la personalización técnica de widgets y microsites para clientes reales del sector turístico y tecnológico. Mi trabajo consiste en adaptar estilos de diseño a la identidad del cliente, partiendo del <strong>estudio de marca</strong> y garantizando coherencias con <strong>guías de diseño y estándares UI/UX</strong>. También se pone énfasis en el <strong>diseño responsive (móvil, tablet y desktop)</strong>, solucionando incidencias visuales y de compatibilidad entre navegadores. Se realizan <strong>pruebas de usabilidad y accesibilidad</strong> aplicando criterios de diseño inclusivo y validación WCAG, evaluando contraste, legibilidad, navegación por teclado y estructura semántica para asegurar una experiencia más usable para todos los usuarios.
-      </p>
+    <td width="200" align="center" valign="middle">
+      <img src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png" width="180" alt="Smartvel" /><br>
+      <strong>Empresa:</strong><br>
+      <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a>
     </td>
-    <td width="35%" style="vertical-align: center;">
-      <img
-        src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png"
-        alt="Smartvel"
-        style="max-width: 100%; width: 200px; height: auto;"
-      />
-      <div style="display:flex; flex-direction: row; justify-content: space-between; align-items: center;">
-        <ul>
-          <li><strong>Empresa:</strong> <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a></li>
-          <li><strong>Tecnologías:</strong></li>
-          <br>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=css,figma&theme=dark&perline=5&titles=true" />
-        </ul>
-      </div>
+    <td valign="top">
+      <h3>Junior Developer</h3>
+      <img src="https://img.shields.io/badge/09%2F2026%20--%20Actual-brightgreen" alt="09/2026 - Actual" />
+      <br>
+      Miembro del equipo de IT e Ingeniería, participando en sprints, implementación de nuevas funcionalidades y mejora continua de la plataforma. Colaboración en diseño, desarrollo y mantenimiento de software, así como investigación y prototipado de nuevas soluciones y mejoras de producto.
+      <br><br>
+      <h3>Prácticas Académicas Externas</h3>
+      <img src="https://img.shields.io/badge/10%2F2025%20--%2007%2F2026-blueviolet" alt="10/2025 - 07/2026" />
+      <br>
+      Desarrollo y mejora de productos digitales dentro del equipo de Producto, en proyectos de maquetación web, QA Testing y desarrollo de software. Exploración y propuesta de mejoras aplicando UI/UX, accesibilidad, metodologías ágiles e Inteligencia Artificial.
     </td>
   </tr>
 </table>

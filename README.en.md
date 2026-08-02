@@ -10,7 +10,7 @@ class Javier:
     def __init__(self):
         self.name = "Javier"
         self.surname = "Rosales Lozano"
-        self.role = "Computer Engineering Student @ UC3M"
+        self.role = "Computer Engineer"
         self.year = 4
         self.residence = "Madrid"
     def __str__(self):
@@ -21,71 +21,90 @@ if __name__ == "__main__":
 ```
 
 <p>
-  My professional goal is to fully develop myself as a <strong>computer engineer</strong>, taking part in technological and innovative projects where I can apply my knowledge and skills to create value, enjoy my work, and maintain a balance between stability and professional growth.
+  <strong>Computer Engineer and soon-to-be student of the Double Master's Degree in Computer Engineering and Applied Artificial Intelligence</strong>, with a strong interest in software development, artificial intelligence, and building technological solutions that create a real impact.
 </p>
 <p>
-  I am motivated by the trust and support I have received throughout my education, and I aim to give back through effort and dedication. I understand that achieving my goals requires perseverance and discipline, so it is up to me to stay motivated and actively pursue my objectives, learning and growing every day.
-</p>
-
-# :wrench: Knowledges and Capacities
-
-<p>
-  Throughout my university studies, I've been specialized in the following technologies:
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,html,css,js,excel,oracle,mongodb,cassandra&theme=dark&titles=true" />
-    </a>
-  </p>
+  My professional goal is to keep growing within the tech industry by taking part in innovative projects where I can add value, learn from great professionals, and continue developing my knowledge and skills. I aim to build a career grounded in continuous learning, responsibility, teamwork, and a healthy balance between professional and personal growth.
 </p>
 <p>
-  Besides other skills, I have managed also:
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nodejs,chartjs,linux,ubuntu,cmake,vim,npm,powershell,r&theme=dark&titles=true" />
-    </a>
-  </p>
-</p>
-<p>
-  Finally, when it comes to working, I'm drawing on the next tools:
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,clion,replit,figma,canva,github,git,stackoverflow,word,discord&theme=dark&titles=true" />
-    </a>
-  </p>
+  The trust and support I've received throughout my education are among my greatest sources of motivation. That's why I approach every new challenge with effort, discipline, and commitment, convinced that constant improvement is the path to achieving any goal.
 </p>
 
-# :briefcase: Experiencia Profesional
+# :wrench: Skills
 
-<ul>
-  <li><h4>Web Layout Designer: UI/UX Design</h4></li>
-</ul>
-
-<table>
+<table border="0" width="100%">
   <tr>
-    <td width="65%" style="vertical-align: center;">
-      <p>External Academic Internship<br><strong>10/2025 - Present</strong></p>
-      <p>
-        Intern in the <strong>Product team at Smartvel</strong>, collaborating on the technical customization of widgets and microsites for real clients in the tourism and technology sectors. My role involves adapting design styles to the client's identity, based on <strong>brand research</strong> and ensuring consistency with <strong>design guidelines and UI/UX standards</strong>. I also focus on <strong>responsive design (mobile, tablet, and desktop)</strong>, resolving visual issues and cross-browser compatibility problems. I perform <strong>usability and accessibility testing</strong>, applying inclusive design principles and WCAG validation, assessing contrast, readability, keyboard navigation, and semantic structure to ensure a more usable experience for all users.
-      </p>
-    </td>
-    <td width="35%" style="vertical-align: center;">
-      <img
-        src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png"
-        alt="Smartvel"
-        style="max-width: 100%; width: 200px; height: auto;"
-      />
-      <div style="display:flex; flex-direction: row; justify-content: space-between; align-items: center;">
-        <ul>
-          <li><strong>Company:</strong> <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a></li>
-          <li><strong>Technologies:</strong></li>
-          <br>
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=css,figma&theme=dark&perline=5&titles=true" />
-        </ul>
-      </div>
-    </td>
+    <th align="center" width="50%">Programming Languages</th>
+    <th align="center" width="50%">Backend, APIs & Communications</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,js,kotlin&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=flask,express,nodejs,api,socketio,eclipse&theme=dark" /></td>
+  </tr>
+  <tr>
+    <th align="center">Web Development & Frontend</th>
+    <th align="center">UI/UX Design</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,html,css,jquery,chartjs&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=figma,miro&theme=dark" /></td>
+  </tr>
+  <tr>
+    <th align="center">Databases</th>
+    <th align="center">Artificial Intelligence & Data Science</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mariadb,mysql,plsql,mongodb,cassandra&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,opencv,sklearn,numpy,pandas,matplotlib&theme=dark" /></td>
+  </tr>
+  <tr>
+    <th align="center">Infrastructure & Systems</th>
+    <th align="center">Version Control</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker,cmake,powershell,vim,npm&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,bitbucket&theme=dark" /></td>
+  </tr>
+  <tr>
+    <th align="center">Development Environments</th>
+    <th align="center">Data Analysis</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,clion,replit&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,excel,r&theme=dark" /></td>
+  </tr>
+   <tr>
+    <th align="center">Operating Systems</th>
+    <th align="center">Testing & QA</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest,pytest,postman&theme=dark" /></td>
   </tr>
 </table>
 
+# :briefcase: Professional Experience
+
+<table>
+  <tr>
+    <td width="200" align="center" valign="middle">
+      <img src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png" width="180" alt="Smartvel" /><br>
+      <strong>Company:</strong><br>
+      <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a>
+    </td>
+    <td valign="top">
+      <h3>Junior Developer</h3>
+      <img src="https://img.shields.io/badge/09%2F2026%20--%20Present-brightgreen" alt="09/2026 - Present" />
+      <br>
+      Member of the IT & Engineering team, taking part in sprints, implementing new features, and continuously improving the platform. Involved in the design, development, and maintenance of software, as well as research and prototyping of new solutions and product improvements.
+      <br><br>
+      <h3>External Academic Internship</h3>
+      <img src="https://img.shields.io/badge/10%2F2025%20--%2007%2F2026-blueviolet" alt="10/2025 - 07/2026" />
+      <br>
+      Developed and improved digital products within the Product team, working on web layout, QA testing, and software development projects. Had the freedom to explore and propose improvements applying UI/UX, accessibility, agile methodologies, and Artificial Intelligence.
+    </td>
+  </tr>
+</table>
 
 # :bulb: Outstanding Projects
 
@@ -93,32 +112,32 @@ if __name__ == "__main__":
   <tr>
     <th align="center">Projects</th>
     <th>Summary</th>
-    <th>Used Technologies</th>
+    <th>Technologies Used</th>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/JRosales04/myhomie-app.git">myhomie-app</a></td>
-    <td>Creation of an interactive system controlled via mobile gestures, designed to manage home automation.</td>
+    <td>Creation of an interactive system controlled via mobile phone gestures, designed to manage home automation.</td>
     <td align="center">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,jquery,nodejs,expressjs,socketio,chartjs,api,miro&theme=dark&perline=5&titles=true" />
     </td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/JRosales04/mydiary-crypto">mydiary-crypto</a></td>
-    <td>Development of a user registration/authentication system with encryption of personalized notes and an advanced Tkinter interface.</td>
+    <td align="center"><a href=https://github.com/JRosales04/mydiary-crypto>mydiary-crypto</a></td>
+    <td>Development of a user registration/authentication system with encrypted personal notes, featuring an advanced Tkinter interface.</td>
     <td align="center">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=python,json,linux,ubuntu&theme=dark&titles=true" />
     </td>
   </tr>
   <tr>
+    <tr>
     <td align="center"><a href=https://github.com/JRosales04/employee-attrition-prediction.git>employee-attrition-prediction</a></td>
-    <td>Employee churn prediction model based on company statistics and employee attributes.</td>
+    <td>Employee attrition prediction model based on company statistics and employee attributes.</td>
     <td align="center">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=python,jupyter,sklearn,numpy,pandas,matplotlib&theme=dark&titles=true&perline=3" />
     </td>
   </tr>
-  <tr>
     <td align="center"><a href=https://github.com/JRosales04/p2p-dss.git>p2p-dss</a></td>
-    <td>Design and deploy of a P2P architecture between Python clients and a C server for file distribution services, with extensions including web services and RPC server.</td>
+    <td>P2P architecture between Python clients and a C server for a file distribution service, extended with web services and an RPC server.</td>
     <td align="center">
       <img src="https://go-skill-icons.vercel.app/api/icons?i=c,python,bash,cmake&theme=dark&titles=true" />
     </td>
@@ -128,8 +147,8 @@ if __name__ == "__main__":
 <p>
   My coding standards focus on:
   <ul style="column-count: 2; column-gap: 1rem;">
-    <li><strong>Code optimization</strong> to improve performance, maintainability, and clean software design.</li>
-    <li><strong>Test development</strong>, robust programming, and best maintenance practices.</li>
+    <li><strong>Code optimization</strong> and efficient, clean software design.</li>
+    <li><strong>Test development</strong>, robust programming, and good maintenance practices.</li>
     <li>Integrating modern technologies and building <strong>scalable applications</strong>.</li>
     <li>Solving complex problems through <strong>creative and efficient solutions</strong>.</li>
   </ul>
@@ -138,7 +157,7 @@ if __name__ == "__main__":
 # :chart_with_upwards_trend: Statistics
 
 <p>
-  Lately, I put my skills and knowledge to the test on <a href="https://leetcode.com/u/jrosales04/">Leetcode</a>. You can track my diary progress below:
+  Lately, I've been putting my skills and knowledge to the test on <a href="https://leetcode.com/u/jrosales04/">Leetcode</a>. You can check my daily progress below:
 </p>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap;">
@@ -149,22 +168,22 @@ if __name__ == "__main__":
     <div align="center" style="display: flex; flex-direction:row; justify-content: center; align-items: center;">
       <a href="https://github.com/JRosales04/JRosales04" target="_blank">
         <img src="https://img.shields.io/github/last-commit/JRosales04/JRosales04?label=last%20commit&style=flat-square&color=6CE086&labelColor=0d1117"
-            alt="Último commit"
+            alt="Last commit"
             style="height: 28px;" />
       </a>
       <a href="https://github.com/JRosales04/JRosales04" target="_blank">
         <img src="https://api.visitorbadge.io/api/VisitorHit?user=JRosales04&repo=JRosales04&label=Visitors%20Count&labelColor=0d1117&countColor=6CE086&&style=flat-square"
-            alt="Visitantes"
+            alt="Visitors"
             style="height: 28px;" />
       </a>
       <a href="https://github.com/JRosales04" target="_blank">
         <img src="https://img.shields.io/github/followers/JRosales04?label=followers&style=flat-square&color=6CE086&labelColor=0d1117"
-            alt="Seguidores"
+            alt="Followers"
             style="height: 28px;" />
       </a>
       <a href="https://github.com/JRosales04/JRosales04" target="_blank">
         <img src="https://img.shields.io/github/stars/JRosales04/JRosales04?label=stars&style=flat-square&color=6CE086&labelColor=0d1117"
-            alt="Estrellas"
+            alt="Stars"
             style="height: 28px;" />
       </a>
     </div>
@@ -172,11 +191,11 @@ if __name__ == "__main__":
   </div>
 </div>
 
-# :mailbox: Connect with me!
+# :mailbox: Let's connect!
 
 <p align="center">
   <a href="./docs/cv_en.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/CV-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Currículum"/>
+    <img src="https://img.shields.io/badge/CV-%23FF5722.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
   <a href="http://www.linkedin.com/in/javierrosaleslozano">
     <img src="https://img.shields.io/badge/LinkedIn%20CV-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -195,5 +214,5 @@ if __name__ == "__main__":
 
 <h4 align="center">
   "Focused on the process, not the outcome."
-  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3af.svg" width="15" height="15"/>
+  <img src="https://twemoji.maxcdn.com/v/latest/svg/1f3af.svg" width="15" height="15" alt="rocket"/>
 </h4>

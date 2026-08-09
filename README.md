@@ -78,7 +78,7 @@ if __name__ == "__main__":
     <th align="center">Testing y calidad</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,ubuntu,kali,raspberrypi&theme=dark" /></td>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest,pytest,postman&theme=dark" /></td>
   </tr>
 </table>

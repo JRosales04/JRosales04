@@ -157,39 +157,48 @@ if __name__ == "__main__":
 # :chart_with_upwards_trend: Estadísticas
 
 <p>
-  Últimamente, pongo a prueba mis habilidades y conocimientos en <a href="https://leetcode.com/u/jrosales04/">Leetcode</a>. Puedes ver mi progreso diario a continuación:
+  Pongo a prueba mis habilidades en <a href="https://leetcode.com/u/jrosales04/">Leetcode</a> y registro mi actividad diaria de código con <a href="https://wakatime.com/@JRosales04">WakaTime</a>:
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: nowrap;">
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/JRosales04?theme=dark&font=Noto%20Sans%20Chakma&ext=heatmap&border=0"
-       alt="Leetcode stats"
-       style="height: 200px; width: auto;" />
-  <div align="center" style="display: flex; flex-direction:column; justify-content: center; align-items: center; gap: 10px;">
-    <div align="center" style="display: flex; flex-direction:row; justify-content: center; align-items: center;">
-      <a href="https://github.com/JRosales04/JRosales04" target="_blank">
-        <img src="https://img.shields.io/github/last-commit/JRosales04/JRosales04?label=last%20commit&style=flat-square&color=6CE086&labelColor=0d1117"
-            alt="Último commit"
-            style="height: 28px;" />
-      </a>
-      <a href="https://github.com/JRosales04/JRosales04" target="_blank">
-        <img src="https://api.visitorbadge.io/api/VisitorHit?user=JRosales04&repo=JRosales04&label=Visitors%20Count&labelColor=0d1117&countColor=6CE086&&style=flat-square"
-            alt="Visitantes"
-            style="height: 28px;" />
-      </a>
-      <a href="https://github.com/JRosales04" target="_blank">
-        <img src="https://img.shields.io/github/followers/JRosales04?label=followers&style=flat-square&color=6CE086&labelColor=0d1117"
-            alt="Seguidores"
-            style="height: 28px;" />
-      </a>
-      <a href="https://github.com/JRosales04/JRosales04" target="_blank">
-        <img src="https://img.shields.io/github/stars/JRosales04/JRosales04?label=stars&style=flat-square&color=6CE086&labelColor=0d1117"
-            alt="Estrellas"
-            style="height: 28px;" />
-      </a>
-    </div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRosales04&theme=dark" style="height: 150px;"/>
-  </div>
-</div>
+       alt="Leetcode stats" width="380" />
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@JRosales04/f2e5cb37-959f-43c7-a437-46d9f1567c2a.png"
+         alt="WakaTime Coding Activity" width="480" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@JRosales04/7c464538-3c78-482c-a7b0-f105f7898bbf.png"
+         alt="WakaTime stats 1" width="320" />
+  </a>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@JRosales04/6414e886-d23a-4ba1-9a99-b11677916517.png"
+         alt="WakaTime stats 2" width="320" />
+  </a>
+  <br>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@JRosales04/82cdfef5-f16b-438e-bc2e-f9985b06b5cd.png"
+         alt="WakaTime stats 3" width="320" />
+  </a>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@JRosales04/70b0d4cf-be7d-4b2d-9cf8-aca36079c258.png"
+         alt="WakaTime stats 4" width="320" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/JRosales04/JRosales04" target="_blank"><img src="https://img.shields.io/github/last-commit/JRosales04/JRosales04?label=last%20commit&style=flat-square&color=6CE086&labelColor=0d1117" alt="Último commit" height="28" /></a><a href="https://github.com/JRosales04/JRosales04" target="_blank"><img src="https://api.visitorbadge.io/api/VisitorHit?user=JRosales04&repo=JRosales04&label=Visitors%20Count&labelColor=0d1117&countColor=6CE086&style=flat-square" alt="Visitantes" height="28" /></a><a href="https://github.com/JRosales04" target="_blank"><img src="https://img.shields.io/github/followers/JRosales04?label=followers&style=flat-square&color=6CE086&labelColor=0d1117" alt="Seguidores" height="28" /></a><a href="https://github.com/JRosales04/JRosales04" target="_blank"><img src="https://img.shields.io/github/stars/JRosales04/JRosales04?label=stars&style=flat-square&color=6CE086&labelColor=0d1117" alt="Estrellas" height="28" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRosales04&theme=dark" style="height: 150px;"/>
+</p>
 
 # :mailbox: ¡Pongámonos en contacto!
 

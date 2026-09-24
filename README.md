@@ -85,26 +85,28 @@ if __name__ == "__main__":
 
 # :briefcase: Experiencia Profesional
 
-<table>
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png" width="180" alt="Smartvel" /><br>
-      <strong>Empresa:</strong><br>
-      <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a>
-    </td>
-    <td valign="top">
-      <h3>Junior Developer</h3>
-      <img src="https://img.shields.io/badge/09%2F2026%20--%20Actual-brightgreen" alt="09/2026 - Actual" />
-      <br>
-      Miembro del equipo de IT e Ingeniería, participando en sprints, implementación de nuevas funcionalidades y mejora continua de la plataforma. Colaboración en diseño, desarrollo y mantenimiento de software, así como investigación y prototipado de nuevas soluciones y mejoras de producto.
-      <br><br>
-      <h3>Prácticas Académicas Externas</h3>
-      <img src="https://img.shields.io/badge/10%2F2025%20--%2007%2F2026-blueviolet" alt="10/2025 - 07/2026" />
-      <br>
-      Desarrollo y mejora de productos digitales dentro del equipo de Producto, en proyectos de maquetación web, QA Testing y desarrollo de software. Exploración y propuesta de mejoras aplicando UI/UX, accesibilidad, metodologías ágiles e Inteligencia Artificial.
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="200" align="center" valign="middle">
+        <img src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png" width="180" alt="Smartvel" /><br>
+        <strong>Empresa:</strong><br>
+        <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a>
+      </td>
+      <td valign="top">
+        <h3>Junior Developer</h3>
+        <img src="https://img.shields.io/badge/09%2F2026%20--%20Actual-brightgreen" alt="09/2026 - Actual" />
+        <br>
+        Miembro del equipo de IT e Ingeniería, participando en sprints, implementación de nuevas funcionalidades y mejora continua de la plataforma. Colaboración en diseño, desarrollo y mantenimiento de software, así como investigación y prototipado de nuevas soluciones y mejoras de producto.
+        <br><br>
+        <h3>Prácticas Académicas Externas</h3>
+        <img src="https://img.shields.io/badge/10%2F2025%20--%2007%2F2026-blueviolet" alt="10/2025 - 07/2026" />
+        <br>
+        Desarrollo y mejora de productos digitales dentro del equipo de Producto, en proyectos de maquetación web, QA Testing y desarrollo de software. Exploración y propuesta de mejoras aplicando UI/UX, accesibilidad, metodologías ágiles e Inteligencia Artificial.
+      </td>
+    </tr>
+  </table>
+</div>
 
 # :bulb: Proyectos Destacados
 

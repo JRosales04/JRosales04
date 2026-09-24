@@ -85,26 +85,28 @@ if __name__ == "__main__":
 
 # :briefcase: Professional Experience
 
-<table>
-  <tr>
-    <td width="200" align="center" valign="middle">
-      <img src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png" width="180" alt="Smartvel" /><br>
-      <strong>Company:</strong><br>
-      <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a>
-    </td>
-    <td valign="top">
-      <h3>Junior Developer</h3>
-      <img src="https://img.shields.io/badge/09%2F2026%20--%20Present-brightgreen" alt="09/2026 - Present" />
-      <br>
-      Member of the IT & Engineering team, taking part in sprints, implementing new features, and continuously improving the platform. Involved in the design, development, and maintenance of software, as well as research and prototyping of new solutions and product improvements.
-      <br><br>
-      <h3>External Academic Internship</h3>
-      <img src="https://img.shields.io/badge/10%2F2025%20--%2007%2F2026-blueviolet" alt="10/2025 - 07/2026" />
-      <br>
-      Developed and improved digital products within the Product team, working on web layout, QA testing, and software development projects. Had the freedom to explore and propose improvements applying UI/UX, accessibility, agile methodologies, and Artificial Intelligence.
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="200" align="center" valign="middle">
+        <img src="https://www.smartvel.com/wp-content/uploads/2024/01/logo-principal-Smartvel.png" width="180" alt="Smartvel" /><br>
+        <strong>Company:</strong><br>
+        <a href="https://www.smartvel.com/es/inicio">Content Trip Solutions S.L., Smartvel</a>
+      </td>
+      <td valign="top">
+        <h3>Junior Developer</h3>
+        <img src="https://img.shields.io/badge/09%2F2026%20--%20Present-brightgreen" alt="09/2026 - Present" />
+        <br>
+        Member of the IT & Engineering team, participating in sprints, implementing new features and continuously improving the platform. Collaboration on the design, development and maintenance of software, as well as research and prototyping of new solutions and product improvements.
+        <br><br>
+        <h3>External Academic Internship</h3>
+        <img src="https://img.shields.io/badge/10%2F2025%20--%2007%2F2026-blueviolet" alt="10/2025 - 07/2026" />
+        <br>
+        Development and improvement of digital products within the Product team, on web layout, QA testing and software development projects. Exploration and proposal of improvements applying UI/UX, accessibility, agile methodologies and Artificial Intelligence.
+      </td>
+    </tr>
+  </table>
+</div>
 
 # :bulb: Outstanding Projects
 

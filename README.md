@@ -70,7 +70,7 @@ if __name__ == "__main__":
     <th align="center">Análisis de datos</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,clion,replit&theme=dark" /></td>
+    <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,clion,idea,replit&theme=dark" /></td>
     <td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,excel,r&theme=dark" /></td>
   </tr>
    <tr>
